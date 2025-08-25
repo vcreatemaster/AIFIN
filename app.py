@@ -17,7 +17,9 @@ with st.sidebar:
         "Gold Futures": "GC=F",
         "Silver Futures": "SI=F",
         "Crude Oil": "CL=F",
-        "Apple": "AAPL",
+        "Etherium": "ETH-USD",
+        "BitCoin" : "BTC-USD",
+        "XRPUSD" : "XRP-USD",
         "Tesla": "TSLA",
         "Nifty 50": "^NSEI",
         "Custom": None  # Special option for custom input
